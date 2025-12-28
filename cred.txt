@@ -1,0 +1,7 @@
+mlflow.set_tracking_uri('https://dagshub.com/naveensddp1/naveen-capstone-project.mlflow')
+dagshub.init(repo_owner='naveensddp1', repo_name='naveen-capstone-project', mlflow=True)
+
+import mlflow
+with mlflow.start_run():
+  mlflow.log_param('parameter name', 'value')
+  mlflow.log_metric('metric name', 1)-n 
