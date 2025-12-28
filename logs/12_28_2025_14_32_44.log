@@ -1,0 +1,7 @@
+[ 2025-12-28 14:32:46,585 ] dagshub - INFO - Accessing as naveensddp1
+[ 2025-12-28 14:32:47,697 ] dagshub - INFO - Initialized MLflow to track repo "naveensddp1/naveen-capstone-project"
+[ 2025-12-28 14:32:47,710 ] dagshub - INFO - Repository naveensddp1/naveen-capstone-project initialized!
+[ 2025-12-28 14:32:50,098 ] root - INFO - Model loaded from ./models/model.pkl
+[ 2025-12-28 14:32:50,138 ] root - INFO - Data loaded from ./data/processed/test_bow.csv
+[ 2025-12-28 14:32:50,150 ] root - INFO - Model evaluation metrics calculated
+[ 2025-12-28 14:32:50,155 ] root - INFO - Metrics saved to reports/metrics.json
